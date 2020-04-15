@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/03/06 21:05:20.000.669,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/06 21:19:33.000.091,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/10 16:00:03.000.351,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/30 16:05:52.000.140,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/30 17:37:02.000.244,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/03/30 18:16:33.000.248,C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit2.fmx=D:\HIBURAN\DELPHI 7\layihan_menu_xe8\form_menu.fmx</Transaction>
+    <Transaction>2019/03/30 18:16:33.000.248,C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\HIBURAN\DELPHI 7\layihan_menu_xe8\form_menu.pas</Transaction>
+    <Transaction>2019/03/30 18:16:43.000.693,C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\HIBURAN\DELPHI 7\layihan_menu_xe8\form_login.pas</Transaction>
+    <Transaction>2019/03/30 18:16:43.000.693,C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\HIBURAN\DELPHI 7\layihan_menu_xe8\form_login.fmx</Transaction>
+    <Transaction>2019/03/30 18:16:54.000.839,C:\Users\Near\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\HIBURAN\DELPHI 7\layihan_menu_xe8\P_latihan_menu.dproj</Transaction>
+    <Transaction>2019/04/03 20:39:57.000.014,=D:\HIBURAN\DELPHI 7\layihan_menu_xe8\Unit3.pas</Transaction>
+    <Transaction>2019/04/03 20:55:50.000.236,D:\HIBURAN\DELPHI 7\layihan_menu_xe8\Unit3.fmx=D:\HIBURAN\DELPHI 7\layihan_menu_xe8\form_profil.fmx</Transaction>
+    <Transaction>2019/04/03 20:55:50.000.236,D:\HIBURAN\DELPHI 7\layihan_menu_xe8\Unit3.pas=D:\HIBURAN\DELPHI 7\layihan_menu_xe8\form_profil.pas</Transaction>
+    <Transaction>2019/04/03 20:56:26.000.216,=D:\HIBURAN\DELPHI 7\layihan_menu_xe8\Unit4.pas</Transaction>
+    <Transaction>2019/04/03 20:58:44.000.069,D:\HIBURAN\DELPHI 7\layihan_menu_xe8\Unit4.pas=D:\HIBURAN\DELPHI 7\layihan_menu_xe8\form_dashborad.pas</Transaction>
+    <Transaction>2019/04/03 20:58:44.000.069,D:\HIBURAN\DELPHI 7\layihan_menu_xe8\Unit4.fmx=D:\HIBURAN\DELPHI 7\layihan_menu_xe8\form_dashborad.fmx</Transaction>
+    <Transaction>2019/04/03 21:01:38.000.913,=D:\HIBURAN\DELPHI 7\layihan_menu_xe8\Unit5.pas</Transaction>
+    <Transaction>2019/04/03 21:08:16.000.610,D:\HIBURAN\DELPHI 7\layihan_menu_xe8\Unit5.pas=D:\HIBURAN\DELPHI 7\layihan_menu_xe8\form_database.pas</Transaction>
+    <Transaction>2019/04/03 21:08:16.000.610,D:\HIBURAN\DELPHI 7\layihan_menu_xe8\Unit5.fmx=D:\HIBURAN\DELPHI 7\layihan_menu_xe8\form_database.fmx</Transaction>
+    <Transaction>2019/04/03 21:09:05.000.756,=D:\HIBURAN\DELPHI 7\layihan_menu_xe8\Unit6.pas</Transaction>
+    <Transaction>2019/04/03 21:14:28.000.581,D:\HIBURAN\DELPHI 7\layihan_menu_xe8\Unit6.fmx=D:\HIBURAN\DELPHI 7\layihan_menu_xe8\form_system.fmx</Transaction>
+    <Transaction>2019/04/03 21:14:28.000.581,D:\HIBURAN\DELPHI 7\layihan_menu_xe8\Unit6.pas=D:\HIBURAN\DELPHI 7\layihan_menu_xe8\form_system.pas</Transaction>
+  </Transactions>
+</BorlandProject>
